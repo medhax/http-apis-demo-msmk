@@ -1,0 +1,26 @@
+{
+  "name": "http-apis-demo-msmk",
+  "version": "1.1.0",
+  "description": "Paquete de demostración de las APIs REST en NodeJS para MSMK (Redes)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhax/http-apis-demo-msmk.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Carles Brunet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medhax/http-apis-demo-msmk/issues"
+  },
+  "homepage": "https://github.com/medhax/http-apis-demo-msmk#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
